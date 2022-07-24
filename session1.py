@@ -1,0 +1,2 @@
+print("hello world")
+print("this is lynne faqih ... i just turned 16 last month ... so excitd for this year's summer and to be learning new things with you :) ... some of my hhobbies are dancing dabke, swimmming, speaking more than two language ")
